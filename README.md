@@ -51,6 +51,9 @@ I am a passionate software developer with a keen interest in backend development
   <img src="https://github-readme-stats.vercel.app/api?username=Hossein-Mirazimi&show_icons=true" alt="Hossein's GitHub stats" />
 </picture>
 
+## 🕛 Coding time
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Let's Connect!
 
