@@ -5,7 +5,7 @@
 
 ## About Me
 
-I am a passionate software developer with a keen interest in backend development, cloud computing, and DevOps. I enjoy solving complex problems and building scalable, efficient systems. 
+I am a passionate front-end engineer with a keen interest in crafting intuitive user interfaces, optimizing web performance, and enhancing user experience. I enjoy solving complex design challenges and building responsive, visually appealing systems.
 
 - 🔭 **Currently working on:** Front-end projects using React, Vue.js, and modern JavaScript frameworks.
 - 🌱 **Learning:** Advanced front-end techniques, performance optimization, and modern design systems.
