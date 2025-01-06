@@ -53,7 +53,7 @@ I am a passionate front-end engineer with a keen interest in crafting intuitive 
 </picture>
 
 ## Leetcode Stats
-<a href="https://leetcode.com/u/hossein_mir1831/">
+<a href="https://leetcode.com/u/hossein_mir1831/" target="_blank">
   <picture>
     <source
       srcset="https://leetcard.jacoblin.cool/hossein_mir1831?theme=dark"
