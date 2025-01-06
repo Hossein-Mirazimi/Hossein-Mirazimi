@@ -51,6 +51,21 @@ I am a passionate front-end engineer with a keen interest in crafting intuitive 
   <img src="https://github-readme-stats.vercel.app/api?username=Hossein-Mirazimi&show_icons=true" alt="Hossein's GitHub stats" />
 </picture>
 
+## Leetcode Stats
+<a href="https://leetcode.com/u/hossein_mir1831/">
+  <picture>
+    <source
+      srcset="https://leetcard.jacoblin.cool/hossein_mir1831?theme=dark"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://leetcard.jacoblin.cool/hossein_mir1831?theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://leetcard.jacoblin.cool/hossein_mir1831?theme=light" alt="Hossein's Leetcode stats" />
+  </picture>
+</a>
+
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
