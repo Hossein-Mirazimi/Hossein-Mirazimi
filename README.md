@@ -83,14 +83,10 @@ I am a passionate front-end engineer with a keen interest in crafting intuitive 
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 59 mins        ████████████████████████░   97.17 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-Vue.js                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 2 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
