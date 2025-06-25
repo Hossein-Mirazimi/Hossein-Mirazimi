@@ -83,11 +83,10 @@ I am a passionate front-end engineer with a keen interest in crafting intuitive 
 
 ```text
 💬 Programming Languages: 
-JavaScript               16 mins             ██████████████░░░░░░░░░░░   55.96 % 
-Vue.js                   12 mins             ███████████░░░░░░░░░░░░░░   44.04 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
