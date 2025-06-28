@@ -6,7 +6,11 @@
 
 ## About Me
 
-I am a passionate front-end engineer with a keen interest in crafting intuitive user interfaces, optimizing web performance, and enhancing user experience. I enjoy solving complex design challenges and building responsive, visually appealing systems.
+I’m a front-end developer based in Iran, currently working at Alibaba Travels. I specialize in React, Vue, and modern JavaScript frameworks, with a passion for building clean, accessible, and high-performance interfaces.
+
+I’m actively looking for front-end opportunities in Europe and open to relocation. With strong teamwork and communication skills, I’m confident in contributing to international teams.
+
+Let’s connect!
 
 - 🔭 **Currently working on:** Front-end projects using React, Vue.js, and modern JavaScript frameworks.
 - 🌱 **Learning:** Advanced front-end techniques, performance optimization, and modern design systems.
