@@ -87,10 +87,10 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-Git Config               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
