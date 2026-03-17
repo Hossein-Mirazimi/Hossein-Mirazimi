@@ -87,20 +87,20 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 min               █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-TypeScript               7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-C#                       6 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-Vue                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+C#                       6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Vue                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
 ```
 
 
