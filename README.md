@@ -87,14 +87,14 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-GDScript3                3 hrs 49 mins       █████████████░░░░░░░░░░░░   50.77 % 
-C#                       2 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-Other                    52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+GDScript3                2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   41.04 % 
+C#                       2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   38.19 % 
+Markdown                 36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 
 💻 Operating System: 
-Mac                      7 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
