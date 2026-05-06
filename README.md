@@ -87,14 +87,14 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-C#                       9 hrs 26 mins       ██████████████████░░░░░░░   71.18 % 
-Other                    1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
-TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
-XML                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+C#                       9 hrs 32 mins       █████████████████░░░░░░░░   69.82 % 
+Other                    1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Markdown                 54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+TypeScript               47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+XML                      22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-Mac                      13 hrs 15 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
