@@ -73,30 +73,6 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-🌆 Daytime                53 commits          █████████████░░░░░░░░░░░░   51.96 % 
-🌃 Evening                31 commits          ████████░░░░░░░░░░░░░░░░░   30.39 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-C#                       3 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   41.80 % 
-Other                    1 hr 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Markdown                 51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
-HTML                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-XML                      40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-
-💻 Operating System: 
-Mac                      9 hrs 23 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
