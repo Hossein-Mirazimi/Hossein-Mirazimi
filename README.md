@@ -87,10 +87,12 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 hr 6 mins         ██████████████████████░░░   89.04 % 
+Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 14 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
