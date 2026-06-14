@@ -87,14 +87,14 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 11 mins        ███████████████░░░░░░░░░░   58.84 % 
-JSON                     29 mins             ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+TypeScript               40 mins             ██████████████████░░░░░░░   71.02 % 
+JSON                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.97 % 
+Other                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Markdown                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Vue                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 💻 Operating System: 
-Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
+Mac                      57 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
