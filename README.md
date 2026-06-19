@@ -87,11 +87,10 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 mins              █████████████████████████   98.37 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
