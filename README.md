@@ -87,10 +87,14 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               4 hrs 4 mins        █████████████░░░░░░░░░░░░   50.21 % 
+Vue                      3 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   39.88 % 
+TSConfig                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+JSON                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+YAML                     10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
