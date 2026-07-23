@@ -76,10 +76,10 @@ Let’s connect!
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                15 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-🌆 Daytime                53 commits          █████████████░░░░░░░░░░░░   51.96 % 
-🌃 Evening                31 commits          ████████░░░░░░░░░░░░░░░░░   30.39 % 
-🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -87,24 +87,18 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-TypeScript               15 hrs 18 mins      █████████░░░░░░░░░░░░░░░░   35.49 % 
-Vue                      10 hrs 28 mins      ██████░░░░░░░░░░░░░░░░░░░   24.26 % 
-Markdown                 6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-JSON                     3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Other                    2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
+TypeScript               16 hrs 8 mins       █████████░░░░░░░░░░░░░░░░   36.24 % 
+Vue                      12 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+Markdown                 5 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+JSON                     2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+Other                    1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 💻 Operating System: 
-Mac                      43 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      44 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in TypeScript** 
-
 ```text
-TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-C#                       6 repos             ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Vue                      5 repos             █████░░░░░░░░░░░░░░░░░░░░   19.23 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+
 ```
 
 
