@@ -73,6 +73,8 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-205%20hrs%2043%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -95,6 +97,32 @@ YAML                     1 hr 42 mins        █░░░░░░░░░░�
 
 💻 Operating System: 
 Mac                      38 hrs 16 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 33 hrs 34 mins (87.72%)
+
+✍️ 8,899 lines written by AI, 424 lines written by hand (95.45% AI-written)
+
+🔤 388,899,457 Input Tokens, 2,289,227 Output Tokens
+
+💵 $2045.45 Estimated AI Cost This Week
+
+🧠 35 AI Sessions, 365 AI Prompts
+
+Opus                     9,709 lines         █████████████████████████   99.65 % 
+Sonnet                   23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Fable                    11 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 95.45% of written lines came from AI
+📚 Verbose Prompter — average 2,814 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 6.33% of changed lines were hand-edited
 ```
 
 ```text
