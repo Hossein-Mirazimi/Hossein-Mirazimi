@@ -73,55 +73,7 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-230%20hrs%207%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Vue                      18 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.02 % 
-TypeScript               11 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
-C#                       3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.87 % 
-JSON                     3 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
-Markdown                 2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
-
-💻 Operating System: 
-Mac                      48 hrs 46 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 39 hrs (79.94%)
-
-✍️ 26,940 lines written by AI, 811 lines written by hand (97.08% AI-written)
-
-🔤 975,531,459 Input Tokens, 2,858,777 Output Tokens
-
-💵 $4953.77 Estimated AI Cost This Week
-
-🧠 21 AI Sessions, 338 AI Prompts
-
-Opus                     26,939 lines        ███████████████████████░░   91.46 % 
-Sonnet                   2,514 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.08% of written lines came from AI
-📚 Verbose Prompter — average 2,236 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 5.59% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2044%20mins-blue?style=flat)
 
 ```text
 
