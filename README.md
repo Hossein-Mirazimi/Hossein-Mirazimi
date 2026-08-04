@@ -73,7 +73,55 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-237%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-244%20hrs%2049%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Vue                      17 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   35.91 % 
+TypeScript               12 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
+C#                       3 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+JSON                     3 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Markdown                 3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+
+💻 Operating System: 
+Mac                      48 hrs 40 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 39 hrs 5 mins (80.32%)
+
+✍️ 27,225 lines written by AI, 906 lines written by hand (96.78% AI-written)
+
+🔤 1,160,067,222 Input Tokens, 3,072,186 Output Tokens
+
+💵 $5820.62 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 339 AI Prompts
+
+Opus                     27,564 lines        ███████████████████████░░   91.69 % 
+Sonnet                   2,498 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.78% of written lines came from AI
+📚 Verbose Prompter — average 1,636 characters per prompt
+🔁 Iterative Prompter — average 17 prompts per session
+🚀 High AI Trust — 5.7% of changed lines were hand-edited
+```
 
 ```text
 
