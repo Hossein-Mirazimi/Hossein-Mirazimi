@@ -73,6 +73,56 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-265%20hrs%2055%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+C#                       11 hrs              ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+Vue                      10 hrs 3 mins       ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+TypeScript               7 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.45 % 
+Python                   4 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
+YAML                     2 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+
+💻 Operating System: 
+Mac                      42 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 39 hrs 35 mins (92.38%)
+
+✍️ 28,969 lines written by AI, 137 lines written by hand (99.53% AI-written)
+
+🔤 1,044,524,665 Input Tokens, 2,812,421 Output Tokens
+
+💵 $5312.18 Estimated AI Cost This Week
+
+🧠 24 AI Sessions, 262 AI Prompts
+
+Opus                     29,355 lines        ████████████████████████░   95.81 % 
+Sonnet                   1,284 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.53% of written lines came from AI
+📄 Detailed Prompter — average 813 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 0.94% of changed lines were hand-edited
+```
+
 ```text
 
 ```
