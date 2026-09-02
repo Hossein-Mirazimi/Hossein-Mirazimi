@@ -73,7 +73,7 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-384%20hrs%201%20min-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-387%20hrs%2013%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
@@ -124,12 +124,13 @@ Claude-Code              0 lines             ░░░░░░░░░░░�
 🚀 High AI Trust — 49.21% of changed lines were hand-edited
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in Vue** 
 
 ```text
-TypeScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-Vue                      1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-JavaScript               1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
+Vue                      2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+HTML                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+JavaScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
