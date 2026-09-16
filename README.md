@@ -80,7 +80,7 @@ Let’s connect!
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                4 commits           █████████████████████████   100.00 % 
+🌃 Evening                12 commits          █████████████████████████   100.00 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
@@ -89,37 +89,36 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-C#                       5 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   40.22 % 
-Markdown                 4 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-TypeScript               1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-Other                    1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Java                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+TypeScript               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+Markdown                 1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+Other                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+Java                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+C#                       52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
 
 💻 Operating System: 
-Mac                      13 hrs 26 mins      █████████████████████████   100.00 % 
+Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 10 mins (83.16%)
+⏱ AI Coding Time: 3 hrs 47 mins (62.3%)
 
-✍️ 5,565 lines written by AI, 352 lines written by hand (94.05% AI-written)
+✍️ 0 lines written by AI, 288 lines written by hand (0.0% AI-written)
 
-🔤 2,759,549 Input Tokens, 1,267,381 Output Tokens
+🔤 674,651 Input Tokens, 285,940 Output Tokens
 
-💵 $261.46 Estimated AI Cost This Week
+💵 $65.64 Estimated AI Cost This Week
 
-🧠 9 AI Sessions, 139 AI Prompts
+🧠 3 AI Sessions, 63 AI Prompts
 
-Opus                     5,565 lines         █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 94.05% of written lines came from AI
-📝 Concise Prompter — average 421 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🚀 High AI Trust — 12.03% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 395 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
