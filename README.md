@@ -73,7 +73,7 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-415%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-419%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -89,35 +89,35 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 36 mins        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Markdown                 1 hr 24 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Other                    1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Java                     54 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-C#                       52 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+TypeScript               3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.17 % 
+Other                    2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
+Markdown                 1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Java                     54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 
 💻 Operating System: 
-Mac                      6 hrs 4 mins        █████████████████████████   100.00 % 
+Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 47 mins (62.3%)
+⏱ AI Coding Time: 7 hrs (69.24%)
 
-✍️ 0 lines written by AI, 288 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 458 lines written by hand (0.0% AI-written)
 
-🔤 674,651 Input Tokens, 285,940 Output Tokens
+🔤 753,750 Input Tokens, 352,540 Output Tokens
 
-💵 $65.64 Estimated AI Cost This Week
+💵 $74.16 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 63 AI Prompts
+🧠 5 AI Sessions, 132 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 395 characters per prompt
-🔁 Iterative Prompter — average 21 prompts per session
+📄 Detailed Prompter — average 501 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
