@@ -89,37 +89,37 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 32 mins       ██████████████░░░░░░░░░░░   54.61 % 
-Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
-Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-Text                     43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-JSON                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
+TypeScript               6 hrs 32 mins       █████████████░░░░░░░░░░░░   52.67 % 
+Markdown                 2 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
+Text                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+Bash                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+Other                    26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
 
 💻 Operating System: 
-Mac                      11 hrs 58 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 41 mins (64.19%)
+⏱ AI Coding Time: 7 hrs 57 mins (64.06%)
 
-✍️ 1,694 lines written by AI, 1,503 lines written by hand (52.99% AI-written)
+✍️ 2,177 lines written by AI, 1,511 lines written by hand (59.03% AI-written)
 
-🔤 1,865,632 Input Tokens, 628,230 Output Tokens
+🔤 1,953,940 Input Tokens, 653,098 Output Tokens
 
-💵 $123.06 Estimated AI Cost This Week
+💵 $125.65 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 103 AI Prompts
+🧠 13 AI Sessions, 109 AI Prompts
 
-Opus                     1,710 lines         █████████████████████████   100.00 % 
+Opus                     2,193 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 52.99% of written lines came from AI
-📄 Detailed Prompter — average 1,159 characters per prompt
-🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 47.25% of changed lines were hand-edited
+⚖️ Balanced with AI — 59.03% of written lines came from AI
+📄 Detailed Prompter — average 1,104 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 41.27% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
