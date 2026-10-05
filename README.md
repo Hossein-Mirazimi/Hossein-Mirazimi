@@ -73,7 +73,7 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-439%20hrs%2045%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-439%20hrs%2054%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -89,37 +89,37 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   35.24 % 
-JavaScript               1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-C#                       1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Text                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+Markdown                 2 hrs 48 mins       ████████████░░░░░░░░░░░░░   49.63 % 
+C#                       41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
+TypeScript               34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+HTML                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Text                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 💻 Operating System: 
-Mac                      9 hrs 29 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 36 mins (90.73%)
+⏱ AI Coding Time: 5 hrs 32 mins (98.04%)
 
-✍️ 7,859 lines written by AI, 91 lines written by hand (98.86% AI-written)
+✍️ 4,591 lines written by AI, 2 lines written by hand (99.96% AI-written)
 
-🔤 3,957,380 Input Tokens, 927,261 Output Tokens
+🔤 2,771,860 Input Tokens, 633,837 Output Tokens
 
-💵 $128.01 Estimated AI Cost This Week
+💵 $83.59 Estimated AI Cost This Week
 
-🧠 17 AI Sessions, 118 AI Prompts
+🧠 12 AI Sessions, 79 AI Prompts
 
-Opus                     7,915 lines         █████████████████████████   100.00 % 
+Opus                     4,606 lines         █████████████████████████   100.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.86% of written lines came from AI
-📄 Detailed Prompter — average 1,026 characters per prompt
+🤖 AI-Driven — 99.96% of written lines came from AI
+📄 Detailed Prompter — average 1,472 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 1.53% of changed lines were hand-edited
+🚀 High AI Trust — 0.09% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
