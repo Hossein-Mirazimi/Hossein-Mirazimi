@@ -89,21 +89,22 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             █████████████████░░░░░░░░   66.54 % 
-Text                     9 mins              █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
-Other                    5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-TeX                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Python                   1 hr 37 mins        ██████████████░░░░░░░░░░░   56.18 % 
+Markdown                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
 
 💻 Operating System: 
-Mac                      50 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 46 mins (91.59%)
+⏱ AI Coding Time: 46 mins (26.82%)
 
-✍️ 267 lines written by AI, 1 lines written by hand (99.63% AI-written)
+✍️ 267 lines written by AI, 1,506 lines written by hand (15.06% AI-written)
 
 🔤 358,994 Input Tokens, 56,348 Output Tokens
 
@@ -115,10 +116,10 @@ Opus                     267 lines           ███████████�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.63% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 15.06% of written lines came from AI
 📚 Verbose Prompter — average 3,150 characters per prompt
 🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 85.54% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
