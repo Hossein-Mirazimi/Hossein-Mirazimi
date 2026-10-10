@@ -89,22 +89,22 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-Python                   1 hr 37 mins        ███████████████████░░░░░░   74.25 % 
-Markdown                 13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
-TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Python                   1 hr 37 mins        █████████████████░░░░░░░░   66.33 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+Markdown                 13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+TOML                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Mac                      2 hrs 11 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (6.54%)
+⏱ AI Coding Time: 8 mins (5.84%)
 
-✍️ 129 lines written by AI, 1,505 lines written by hand (7.89% AI-written)
+✍️ 129 lines written by AI, 1,510 lines written by hand (7.87% AI-written)
 
 🔤 226,095 Input Tokens, 12,127 Output Tokens
 
@@ -115,10 +115,10 @@ Mac                      2 hrs 11 mins       ███████████�
 Opus                     129 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 7.89% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 7.87% of written lines came from AI
 📄 Detailed Prompter — average 1,465 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 92.44% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 93.74% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
