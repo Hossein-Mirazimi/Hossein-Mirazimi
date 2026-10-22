@@ -73,55 +73,7 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-455%20hrs%2031%20mins-blue?style=flat)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                13 commits          █████████████████████████   100.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   30.09 % 
-TypeScript               3 hrs 53 mins       ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-Other                    1 hr 45 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-JavaScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-Bash                     1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-
-💻 Operating System: 
-Mac                      15 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 11 hrs 41 mins (74.02%)
-
-✍️ 3,661 lines written by AI, 82 lines written by hand (97.81% AI-written)
-
-🔤 3,923,993 Input Tokens, 875,884 Output Tokens
-
-💵 $97.39 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 180 AI Prompts
-
-Opus                     3,660 lines         █████████████████████████   99.95 % 
-Sonnet                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 97.81% of written lines came from AI
-📚 Verbose Prompter — average 2,271 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 2.92% of changed lines were hand-edited
-```
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-457%20hrs%2015%20mins-blue?style=flat)
 
 **I Mostly Code in TypeScript** 
 
