@@ -73,7 +73,7 @@ Let’s connect!
 
 ## 🕛 Coding time
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-465%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-467%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -89,37 +89,37 @@ Let’s connect!
 
 ```text
 💬 Programming Languages: 
-Markdown                 7 hrs 27 mins       ███████░░░░░░░░░░░░░░░░░░   28.59 % 
-TypeScript               5 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   19.62 % 
-JavaScript               3 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Other                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Bash                     1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+Markdown                 5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
+TypeScript               5 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.12 % 
+JavaScript               3 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Other                    3 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.02 % 
+Bash                     3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
 
 💻 Operating System: 
-Mac                      26 hrs 3 mins       █████████████████████████   100.00 % 
+Mac                      26 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 59 mins (80.54%)
+⏱ AI Coding Time: 19 hrs 54 mins (76.18%)
 
-✍️ 16,758 lines written by AI, 91 lines written by hand (99.46% AI-written)
+✍️ 20,854 lines written by AI, 121 lines written by hand (99.42% AI-written)
 
-🔤 7,497,433 Input Tokens, 1,874,784 Output Tokens
+🔤 9,823,996 Input Tokens, 1,976,767 Output Tokens
 
-💵 $198.98 Estimated AI Cost This Week
+💵 $221.13 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 261 AI Prompts
+🧠 20 AI Sessions, 255 AI Prompts
 
-Opus                     17,092 lines        █████████████████████████   99.99 % 
-Sonnet                   2 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Opus                     21,550 lines        █████████████████████████   99.96 % 
+Sonnet                   9 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📚 Verbose Prompter — average 4,367 characters per prompt
-🔁 Iterative Prompter — average 17 prompts per session
-🚀 High AI Trust — 0.74% of changed lines were hand-edited
+🤖 AI-Driven — 99.42% of written lines came from AI
+📚 Verbose Prompter — average 4,450 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 0.81% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
